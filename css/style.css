@@ -1,0 +1,9 @@
+.container{
+    margin-bottom: 10%;
+}
+.song-text{
+    font-style: italic;
+}
+.song-text div + div{
+    margin-top: 5%;
+} 
